@@ -15,6 +15,8 @@
 This data analysis project, completed as a guided learning exercise, aims to provide insights into the race performance of athletes who have participated in ultra marathon events.
 Through the analysis of the data, we can draw insights as to whether factors such as season, gender, race distance & age influenced the performance of the athletes.
 
+![image](https://github.com/user-attachments/assets/cf460fb3-b60c-43bc-8082-9c20caa69ba8)
+
 ---
 
 ### Data Sources
